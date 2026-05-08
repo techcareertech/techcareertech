@@ -28,7 +28,7 @@ I enjoy working with real-world datasets (HR, sales, financial) and building das
 ### 🗄️ Databases
 - SQL (Joins, Filtering, Aggregations)
 
-### 🤖 Machine Learning (Basic)
+### 🤖 Machine Learning 
 - Regression, Classification
 - Model Evaluation
 
