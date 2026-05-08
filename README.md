@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Umar
 
 📊 **Data Analyst | Data Scientist | Machine Learning Enthusiast**  
-📍 Pakistan | 🎓 BS Computer Science (University of Peshawar)
+📍 Pakistan | 🎓 BS Computer Science (University of Peshawar -2024)
 
 ---
 
