@@ -7,9 +7,12 @@
 
 ## 🚀 About Me
 
-I am a passionate Data Analyst currently working at **Arte Analytics Solution**, where I transform raw data into actionable insights. I specialize in data cleaning, analysis, and visualization to support business decision-making.
+I’m a Data Analyst passionate about turning raw data into meaningful insights that support better business decisions.
+ 
+I hold the Salesforce Certified Tableau Desktop Foundations certification, strengthening my ability to design interactive dashboards and visualize complex data effectively.
 
-I enjoy working with real-world datasets (HR, sales, financial) and building dashboards and models that solve practical business problems. My goal is to grow into a Data Scientist role and contribute to impactful, data-driven solutions globally.
+Core tools: SQL • Python (Pandas, NumPy) • Power BI • Tableau • Excel (Pivot Table, XLOOKUP / VLOOKUP)
+Core methods: Data Cleaning, EDA, Regression & Hypothesis Testing, Business Intelligence, Financial Analysis, Dashboard Development.
 
 ---
 
