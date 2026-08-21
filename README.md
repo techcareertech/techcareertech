@@ -138,7 +138,7 @@ An interactive analytics dashboard focused on understanding employee attrition a
 
 `Tableau` `Data Analytics` `Data Visualization` `Business Intelligence`
 
-**Repository:** [Add GitHub repository link]  
+**Repository:** [https://github.com/techcareertech/HR-Excutive-Overview-Dashboard]  
 **Dashboard:** [Add live dashboard link]
 
 ---
