@@ -236,7 +236,7 @@ These observations demonstrate how segmentation and exploratory analysis can mov
 
 Focused on Tableau fundamentals and the development of effective data visualizations and dashboards.
 
-**Verification:** [Add certification verification link]
+**Verification:** [https://www.salesforce.com/trailblazer/ufu13dvsy77bax3ipw]
 
 ---
 
