@@ -78,8 +78,3 @@ I approach analytics with a business-first mindset: understand the problem, vali
 06  RECOMMEND
     Translate insights into actionable decisions
 
----
-
-
-
-⭐ *I am open to Data Analyst / Data Scientist opportunities (Onsite & Remote)*
