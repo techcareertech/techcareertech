@@ -77,67 +77,225 @@ I approach analytics with a business-first mindset: understand the problem, vali
           ↓
 06  RECOMMEND
     Translate insights into actionable decisions
----
-
-## 🔧 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+---
 
-### 📊 HR Analytics Dashboard
-- Built an interactive Tableau dashboard to analyze employee attrition and workforce trends  
-- Identified key drivers of employee turnover  
-- Helped simulate HR decision-making  
+# 🚀 Featured Analytics Projects
+
+## 🔥 Customer Churn Analysis & Prediction
+
+**End-to-end analytics project focused on understanding customer churn and identifying potential churn drivers.**
+
+### Business Problem
+
+Understand why customers leave and identify customer segments associated with higher churn.
+
+### Approach
+
+- Data cleaning and validation
+- Data preprocessing
+- Exploratory Data Analysis
+- Churn segmentation
+- Feature engineering
+- Statistical and analytical exploration
+- Machine learning classification
+- Power BI business intelligence dashboard
+- Business insight generation
+
+### Key Areas Analyzed
+
+- Contract type
+- Customer tenure
+- Internet service
+- Payment method
+- Monthly charges
+- Technical support
+- Online security
+- Customer segments
+
+### Tech Stack
+
+`Python` `Pandas` `NumPy` `EDA` `Machine Learning` `Power BI`
+
+**Repository:** [Add GitHub repository link]
 
 ---
 
-### 💰 Financial Sales Analysis Dashboard
-- Analyzed revenue, profit, and discount trends  
-- Identified top-performing products and regions  
-- Delivered actionable insights using Tableau  
+## 👥 HR Analytics Dashboard
+
+An interactive analytics dashboard focused on understanding employee attrition and workforce trends.
+
+### Focus
+
+- Employee attrition analysis
+- Workforce trends
+- Identification of potential turnover drivers
+- Interactive business intelligence visualization
+- HR-focused decision support
+
+### Tech Stack
+
+`Tableau` `Data Analytics` `Data Visualization` `Business Intelligence`
+
+**Repository:** [Add GitHub repository link]  
+**Dashboard:** [Add live dashboard link]
 
 ---
 
-### 📈 Data Analysis using Python
-- Performed end-to-end data analysis (cleaning, EDA, visualization)  
-- Extracted insights from real-world datasets  
-- Used Pandas, NumPy, Matplotlib  
+## 💰 Financial Sales Analysis Dashboard
+
+A business intelligence project analyzing financial and sales performance across products and regions.
+
+### Focus
+
+- Revenue analysis
+- Profit analysis
+- Discount trends
+- Product performance
+- Regional performance
+- Actionable business insights
+
+### Tech Stack
+
+`Tableau` `Data Analysis` `Business Intelligence` `Data Visualization`
+
+**Repository:** [Add GitHub repository link]  
+**Dashboard:** [Add live dashboard link]
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 End-to-End Python Data Analysis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techcareertech&show_icons=true&theme=default)
+A complete data analysis workflow covering the journey from raw data to meaningful insights.
+
+### Workflow
+
+**Data → Cleaning → EDA → Visualization → Insights**
+
+### Focus
+
+- Data cleaning
+- Data preprocessing
+- Exploratory Data Analysis
+- Numerical analysis
+- Visualization
+- Insight extraction
+
+### Tech Stack
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+**Repository:** [Add GitHub repository link]
 
 ---
 
-## 🏆 GitHub Trophy
+# 💡 Selected Analytical Insights
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=techcareertech&theme=tokyonight)
+My Customer Churn analysis highlights several meaningful patterns:
+
+- **Contract type** is strongly associated with different churn behaviors.
+- Customers in their **early tenure period** show higher churn.
+- **Fiber-optic** customers demonstrate higher churn than other internet-service groups.
+- Customers using **electronic check** payments show elevated churn.
+- Customers without **technical support** show substantially higher churn.
+- Customers without **online security** show substantially higher churn.
+
+These observations demonstrate how segmentation and exploratory analysis can move beyond descriptive reporting toward identifying potential business drivers.
 
 ---
 
-## 📈 Activity Graph
+# 📊 Analytics & Visualization Stack
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=techcareertech&theme=tokyo-night)
+### Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+### Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### Data & Development
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
+# 🎓 Certification
 
-## 🌐 Connect With Me
+### Salesforce Certified Tableau Desktop Foundations
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/mdumartech  
-- 📧 Email: umar.techcareer@gmail.com
-- 🐙 GitHub: https://github.com/techcareertech
+Focused on Tableau fundamentals and the development of effective data visualizations and dashboards.
+
+**Verification:** [Add certification verification link]
+
+---
+
+# 📚 Current Focus
+
+I’m continuously strengthening my capabilities across:
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI & DAX
+- Tableau
+- Machine Learning
+- Business Intelligence
+- Data Storytelling
+- Analytical Problem Solving
+
+---
+
+# 📈 GitHub
+
+I use GitHub to document analytical projects, technical experiments, dashboards, and data-focused workflows.
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=techcareertech&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Muhammad Umar GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcareertech&layout=compact&hide_border=true"
+    alt="Muhammad Umar top programming languages"
+  />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+> **Have a data problem worth solving? Let's connect.**
+
+Whether it involves **data analysis, business intelligence, dashboards, Python, SQL, or machine learning**, I’m interested in building practical solutions that turn data into useful decisions.
+
+**LinkedIn:**  
+[linkedin.com/in/mdumartech](https://www.linkedin.com/in/mdumartech)
+
+**GitHub:**  
+[github.com/techcareertech](https://github.com/techcareertech)
+
+**Email:**  
+[umar.techcareer@gmail.com](mailto:umar.techcareer@gmail.com)
+
+---
+
+<p align="center">
+  <strong>Data → Insight → Decision</strong>
+</p>
 
 ---
 
