@@ -259,19 +259,18 @@ I’m continuously strengthening my capabilities across:
 
 I use GitHub to document analytical projects, technical experiments, dashboards, and data-focused workflows.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=techcareertech&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Muhammad Umar GitHub statistics"
-  />
-</p>
+### 🔍 What You'll Find Here
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcareertech&layout=compact&hide_border=true"
-    alt="Muhammad Umar top programming languages"
-  />
-</p>
+- 📊 Data Analytics Projects
+- 📈 Power BI & Tableau Dashboards
+- 🐍 Python Data Analysis
+- 🗄️ SQL Projects & Practice
+- 🤖 Machine Learning Experiments
+- 📚 Data Science & Business Intelligence Workflows
+
+> **Building practical projects, documenting the process, and turning data into insights.**
+
+[![GitHub Profile](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techcareertech)
 
 ---
 
