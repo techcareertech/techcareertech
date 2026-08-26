@@ -186,7 +186,7 @@ A complete data analysis workflow covering the journey from raw data to meaningf
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
-**Repository:** [Add GitHub repository link]
+**Repository:** [https://github.com/techcareertech/Titanic-classification-AAPL-stock-prediction]
 
 ---
 
